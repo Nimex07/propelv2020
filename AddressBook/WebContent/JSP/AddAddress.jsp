@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+    
   <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>  
   
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -14,7 +15,7 @@
 	<%@ include file="../assets/css/bootstrap.min.css" %>
 	<%@ include file="../assets/css/animate.min.css" %>
 	<%@ include file="../assets/css/light-bootstrap-dashboard.css" %>
-	<%@ include file="../assets/css/pe-icon-7-stroke.css" %>s
+	<%@ include file="../assets/css/pe-icon-7-stroke.css" %>
 	</style>
 	
 	<!--     Fonts and icons     -->
